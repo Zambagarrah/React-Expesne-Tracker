@@ -19,8 +19,8 @@ You can deploy the app locally or host it on platforms like Netlify or Vercel fo
 ## Getting Started
 ### Prerequisites
 
-Node.js (v18 or later recommended)
-npm (comes with Node.js)
+- Node.js (v18 or later recommended)
+- npm (comes with Node.js)
 
 ### Installation
 
@@ -53,27 +53,27 @@ React-Expense-Tracker/
 
 ## Technologies Used:
 
-> React.js
-> JavaScript (ES6+)
-> CSS3 (or Tailwind CSS/Styled Components)
-> Chart.js or Recharts (for data visualization)
-> LocalStorage API
+- React.js
+- JavaScript (ES6+)
+- CSS3 (or Tailwind CSS/Styled Components)
+- Chart.js or Recharts (for data visualization)
+- LocalStorage AP-
 
 ## Usage
 
-Add a Transaction: Enter the details and submit the form to record an expense or income.
-Edit/Delete: Click the edit or delete icon next to any transaction.
-Filter/Search: Use the filter bar to narrow down transactions by category or date.
-View Summary: Check the dashboard for a summary and visual breakdown of your spending.
+- Add a Transaction: Enter the details and submit the form to record an expense or income.
+- Edit/Delete: Click the edit or delete icon next to any transaction.
+- Filter/Search: Use the filter bar to narrow down transactions by category or date.
+- View Summary: Check the dashboard for a summary and visual breakdown of your spending.
 
 ## Contributing
 
-Contributions are welcome! To contribute:
-Fork the repository.
-Create a new branch: `git checkout -b feature-name`
-Commit your changes: `git commit -m 'Add some feature'`
-Push to the branch: `git push origin feature-name`
-Open a pull request describing your changes.
+- Contributions are welcome! To contribute:
+- Fork the repository.
+- Create a new branch: `git checkout -b feature-name`
+- Commit your changes: `git commit -m 'Add some feature'`
+- Push to the branch: `git push origin feature-name`
+- Open a pull request describing your changes.
 
 ## License
 
